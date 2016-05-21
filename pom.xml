@@ -12,6 +12,14 @@
             <version>1.8.8-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
+        <repositories>
+        <repository>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+        </repository>
+        <repository>
+            </repositories>
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.9</maven.compiler.source>
